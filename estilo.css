@@ -1,0 +1,41 @@
+body {
+    background-color:gray;
+}
+
+.container {
+    background-color: white;
+}
+
+#logo-loja {
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+}
+#imagem-logo {
+    margin-bottom: 30px;
+}
+
+#titulo-destaques {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    text-align: center;
+}
+
+#cards-destaque {
+    margin-left: 45px
+}
+
+#rodape {
+    color: white;
+    padding-top: 50px;
+    background-color: darkgray;
+}
+
+#exampleModal {
+    color: black;
+}
